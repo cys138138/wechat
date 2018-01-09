@@ -1,1 +1,1 @@
-# light-wechat
+# wechat
